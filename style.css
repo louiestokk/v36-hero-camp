@@ -10,3 +10,8 @@ body {
     padding: 20px;
 }
 
+.hero {
+  background-color: #0f3d3e;
+  padding: 3rem 1.5rem;
+}
+
