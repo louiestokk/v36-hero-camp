@@ -42,3 +42,11 @@ font-size: 2rem;
   display: inline-block;
   margin-top: 1rem;
 }
+
+.card {
+  margin-top: 1rem;
+  border-radius: 5px;
+  padding: 1.25rem;
+  background-color: #f1f5f9;
+  color: #1e293b;
+}
