@@ -50,3 +50,14 @@ font-size: 2rem;
   background-color: #f1f5f9;
   color: #1e293b;
 }
+
+.card h2{
+  font-size: 1.5rem;
+  margin-bottom: 0.5rem;
+  color: #b38931;
+}
+
+.card p {
+    letter-spacing: 0.5px;
+    line-height: 1.6;
+}
