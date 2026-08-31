@@ -1,5 +1,5 @@
 1. peka pa en foralder 
-headern med classen her ar foralder till alla element i den 
+headern med classen hero ar foralder till alla element inuti den 
 2. Barnen till headern / hero ar h1,p och img
 
 # Hur fungerar CSS-arv 
