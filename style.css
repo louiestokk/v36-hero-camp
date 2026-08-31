@@ -11,9 +11,11 @@ body {
 }
 
 .hero {
-  background-color: #0f3d3e;
+  background-color: #fde68a;
   padding: 3rem 1.5rem;
   border-radius: 5px;
+  color: #ffffff;
+  font-family: sans-serif;
 }
 
 .hero img {
@@ -23,18 +25,5 @@ body {
 }
 
 .hero h1 {
-  color: #ffffff;
-  font-family: sans-serif;
-}
-.hero .datum {
-  color: #ffffff;
-  font-family: sans-serif;
-}
-.hero .plats {
-  color: #ffffff;
-  font-family: sans-serif;
-}
-.hero .tagline {
-  color: #ffffff;
-  font-family: sans-serif;
+font-size: 2rem;
 }
