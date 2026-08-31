@@ -8,10 +8,15 @@ body {
     max-width: 800px;
     margin: 0 auto;
     padding: 20px;
+    background-color: #eee4bd;
+}
+
+p {
+    margin: 0.4rem 0;
 }
 
 .hero {
-  background-color: #fde68a;
+  background-color: #d0a703;
   padding: 3rem 1.5rem;
   border-radius: 5px;
   color: #ffffff;
@@ -26,4 +31,14 @@ body {
 
 .hero h1 {
 font-size: 2rem;
+}
+
+.hero .btn {
+  color: #0f172a;
+  background-color: #fde68a;
+  padding: 0.5rem 1rem;
+  text-decoration: none;
+  border-radius: 3px;
+  display: inline-block;
+  margin-top: 1rem;
 }
