@@ -71,6 +71,8 @@ ul{
 }
 
 li {
+    /* Gör varje lista flexibel, börja på 200 pixlar och låt alla listpunkter dela jämnt på utrymmet. */
+    flex:1  1 200px;
     background-color: #f4f1f1;
     padding: 0.5rem 1rem;
     border-radius: 4px;
